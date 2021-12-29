@@ -68,7 +68,7 @@ a:hover, a:active, a:focus { /* 此组选择器将为键盘导航者提供与鼠
 .footer {
 	padding: 10px 0;
 	height: 80px;
-	background-color: #90826b;
+	background-color: #6f7d94;
 }
 .myfooter {
 	width: 100%;
@@ -190,7 +190,7 @@ background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, tr
 	width:70%;
 	height:100%;
 	float:right;
-	background-color: #90826b;
+	background-color: #6f7d94;
 }
 
 .header_left {
@@ -198,7 +198,7 @@ background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, tr
 	width:30%;
 	height:100%;
 	float:left;
-	background-color: #90826b;
+	background-color: #6f7d94;
 }
 
 .top1{
